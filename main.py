@@ -876,7 +876,7 @@ def identificacao_causa_raiz(index_lista_cauxa_raiz):
 """ ---------------------------------------------------------------------------------------------------------------- """
 if __name__ == '__main__':
 
-    _var_cliente = 'Digital Folha'
+    _var_cliente = 'Python - PyCharm'
     _var_acontecimento = 'Viva com leveza'
 
     _var_o_que = ('A criatividade é a inteligência se divertindo, e quando você permite que ela flua livremente, grandes '
@@ -887,7 +887,7 @@ if __name__ == '__main__':
                     'canção. E no compasso do universo, o coração aprende que a beleza mora no instante que se deixa '
                     'viver com ternura.')
 
-    _var_quem = 'Graziele Fonseca'
+    _var_quem = 'Gasparsinho Camarada'
     _var_onde = SETORES_SEGETI[10]
     _var_quando = f'{MESES_CONSULTA[1]}/2022'
     _var_como = ('No silêncio da noite, onde os sonhos dançam com as estrelas, a alma encontra abrigo nas palavras '
